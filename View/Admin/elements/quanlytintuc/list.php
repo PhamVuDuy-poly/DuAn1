@@ -13,19 +13,19 @@
   <meta name="author" content="codedthemes">
 
   <!-- [Favicon] icon -->
-  <link rel="icon" href="../assets/images/favicon.svg" type="image/x-icon"> <!-- [Google Font] Family -->
+  <link rel="icon" href="../../assets/images/favicon.svg" type="image/x-icon"> <!-- [Google Font] Family -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" id="main-font-link" >
 <!-- [Tabler Icons] https://tablericons.com -->
-<link rel="stylesheet" href="../assets/fonts/tabler-icons.min.css" >
+<link rel="stylesheet" href="../../assets/fonts/tabler-icons.min.css" >
 <!-- [Feather Icons] https://feathericons.com -->
-<link rel="stylesheet" href="../assets/fonts/feather.css" >
+<link rel="stylesheet" href="../../assets/fonts/feather.css" >
 <!-- [Font Awesome Icons] https://fontawesome.com/icons -->
-<link rel="stylesheet" href="../assets/fonts/fontawesome.css" >
+<link rel="stylesheet" href="../../assets/fonts/fontawesome.css" >
 <!-- [Material Icons] https://fonts.google.com/icons -->
-<link rel="stylesheet" href="../assets/fonts/material.css" >
+<link rel="stylesheet" href="../../assets/fonts/material.css" >
 <!-- [Template CSS Files] -->
-<link rel="stylesheet" href="../assets/css/style.css" id="main-style-link" >
-<link rel="stylesheet" href="../assets/css/style-preset.css" >
+<link rel="stylesheet" href="../../assets/css/style.css" id="main-style-link" >
+<link rel="stylesheet" href="../../assets/css/style-preset.css" >
 
 </head>
 <!-- [Head] end -->
@@ -43,9 +43,9 @@
 <nav class="pc-sidebar">
   <div class="navbar-wrapper">
     <div class="m-header">
-      <a href="../dashboard/index.html" class="b-brand text-primary">
+      <a href="../../dashboard/index.html" class="b-brand text-primary">
         <!-- ========   Change your logo from here   ============ -->
-        <img src="../assets/images/logo-dark.svg" alt="" class="logo logo-lg">
+        <img src="../../assets/images/logo-dark.svg" alt="anhloi" class="logo logo-lg">
       </a>
     </div>
     <div class="navbar-content">
@@ -55,7 +55,7 @@
           <i class="ti ti-dashboard"></i>
         </li>
         <li class="pc-item">
-          <a href="../dashboard/index.html" class="pc-link"><span class="pc-micon"><i class="ti ti-dashboard"></i></span><span
+          <a href="../../dashboard/index.html" class="pc-link"><span class="pc-micon"><i class="ti ti-dashboard"></i></span><span
               class="pc-mtext">Default</span></a>
         </li>
 
@@ -64,19 +64,19 @@
           <i class="ti ti-apps"></i>
         </li>
         <li class="pc-item">
-          <a href="../elements/bc_typography.html" class="pc-link">
+          <a href="../../elements/bc_typography.html" class="pc-link">
             <span class="pc-micon"><i class="ti ti-typography"></i></span>
             <span class="pc-mtext">Typography</span>
           </a>
         </li>
         <li class="pc-item">
-          <a href="../elements/bc_color.html" class="pc-link">
+          <a href="../../elements/bc_color.html" class="pc-link">
             <span class="pc-micon"><i class="ti ti-color-swatch"></i></span>
             <span class="pc-mtext">Color</span>
           </a>
         </li>
         <li class="pc-item">
-          <a href="../elements/icon-tabler.html" class="pc-link">
+          <a href="../../elements/icon-tabler.html" class="pc-link">
             <span class="pc-micon"><i class="ti ti-plant-2"></i></span>
             <span class="pc-mtext">Icons</span>
           </a>
@@ -87,13 +87,13 @@
           <i class="ti ti-news"></i>
         </li>
         <li class="pc-item">
-          <a href="../pages/login-v3.html" class="pc-link">
+          <a href="../../pages/login-v3.html" class="pc-link">
             <span class="pc-micon"><i class="ti ti-lock"></i></span>
             <span class="pc-mtext">Login</span>
           </a>
         </li>
         <li class="pc-item">
-          <a href="../pages/register-v3.html" class="pc-link">
+          <a href="../../pages/register-v3.html" class="pc-link">
             <span class="pc-micon"><i class="ti ti-user-plus"></i></span>
             <span class="pc-mtext">Register</span>
           </a>
@@ -139,7 +139,7 @@
           </ul>
         </li>
         <li class="pc-item">
-          <a href="../other/sample-page.html" class="pc-link">
+          <a href="../../other/sample-page.html" class="pc-link">
             <span class="pc-micon"><i class="ti ti-brand-chrome"></i></span>
             <span class="pc-mtext">Sample page</span>
           </a>
@@ -224,7 +224,7 @@
             <div class="list-group-item list-group-item-action">
               <div class="d-flex">
                 <div class="flex-shrink-0">
-                  <img src="../assets/images/user/avatar-3.jpg" alt="user-image" class="user-avtar" >
+                  <img src="../../assets/images/user/avatar-3.jpg" alt="user-image" class="user-avtar" >
                 </div>
                 <div class="flex-grow-1 ms-1">
                   <span class="float-end text-muted">10 min ago</span>
@@ -245,7 +245,7 @@
     <li class="dropdown pc-h-item header-user-profile">
       <a class="pc-head-link head-link-primary dropdown-toggle arrow-none me-0" data-bs-toggle="dropdown" href="#"
         role="button" aria-haspopup="false" aria-expanded="false">
-        <img src="../assets/images/user/avatar-2.jpg" alt="user-image" class="user-avtar" >
+        <img src="../../assets/images/user/avatar-2.jpg" alt="user-image" class="user-avtar" >
         <span>
           <i class="ti ti-settings"></i>
         </span>
@@ -263,15 +263,15 @@
                 class="btn btn-warning">Buy Now</a>
             </div>
             <hr >
-            <a href="../application/account-profile-v1.html" class="dropdown-item">
+            <a href="../../application/account-profile-v1.html" class="dropdown-item">
               <i class="ti ti-settings"></i>
               <span>Account Settings</span>
             </a>
-            <a href="../application/social-profile.html" class="dropdown-item">
+            <a href="../../application/social-profile.html" class="dropdown-item">
               <i class="ti ti-user"></i>
               <span>Social Profile</span>
             </a>
-            <a href="../pages/login-v1.html" class="dropdown-item">
+            <a href="../../pages/login-v1.html" class="dropdown-item">
               <i class="ti ti-logout"></i>
               <span>Logout</span>
             </a>
@@ -296,12 +296,11 @@
           <div class="row align-items-center">
             <div class="col-md-12">
               <div class="page-header-title">
-                <h5 class="m-b-10">Typography</h5>
+                <h5 class="m-b-10">Danh sách tin tức</h5>
               </div>
               <ul class="breadcrumb">
-                <li class="breadcrumb-item"><a href="../dashboard/index.html">Home</a></li>
-                <li class="breadcrumb-item"><a href="javascript: void(0)">Basic UI</a></li>
-                <li class="breadcrumb-item" aria-current="page">Typography</li>
+                <li class="breadcrumb-item"><a href="../../dashboard/index.html">Trang Chủ</a></li>
+                <li class="breadcrumb-item" aria-current="page">Danh sách tin tức</li>
               </ul>
             </div>
           </div>
@@ -309,11 +308,76 @@
       </div>
       <!-- [ breadcrumb ] end -->
 
-      <!-- [ Main Content ] start -->
-      <div class="alert alert-warning alert-dismissible fade show" role="alert">
-      <strong>Holy guacamole!</strong> You should check in on some of those fields below.
-      <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-    </div>
+      <h1 class="my-4">Danh sách tin tức</h1>
+    <!-- <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
+          Menu
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+          <a href="add.html"><li><button class="dropdown-item" type="button">Them moi khoa hoc</button></li></a>
+          <a href="register.html"><li><button class="dropdown-item" type="button">Register</button></li></a>
+        </ul>
+      </div> -->
+    <table class="table table-light table-hover table-striped table-bodered">
+        <thead class="table table-dark">
+            <tr>
+                <th>STT</th>
+                <th>Tiêu đề tin tức</th>
+                <th>Mô tả</th>
+                <th>Ảnh tin tức</th>
+                <th>Ngày đăng tin tức</th>
+                <th>Công cụ</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+        </tbody>
+    </table>
+    <script>
+           const getNewss = async()=>{
+                const tbody = document.querySelector('tbody')
+                try {
+                    const res = await fetch('http://localhost/Duan1_nhom7/DuAn1/api.php')
+                    const newss = await res.json()
+                    console.log(res);
+                    newss.forEach((news, index)=>{
+                        const tr = document.createElement('tr')
+                        tr.innerHTML = `
+                            <td>${index+1}</td>
+                            <td>${news.name}</td>
+                            <td>${news.descriptions}</td>
+                            <td> <img src="${news.image}" id="img" alt="anhloi"></td>  
+                            <td>ok oko ok</td>
+                            <td>
+                                <button class="btn btn-success" ><a href="edit.html?id=${news.id}">Update</a></button>
+                                <button class="btn btn-danger" onclick="Deletecourses(${news.id})">Delete</button>
+                            </td>
+                        `
+                        tbody.append(tr)
+                    })
+                } catch (error) {
+                    alert('Loi!!')
+                }
+            }
+            getNewss()
+            const Deletenews= async (id)=>{
+                if(confirm('Bạn có chắc muốn xóa chứ???')){
+                    try {
+                       const res = await fetch(`http://localhost/Duan1_nhom7/DuAn1/Api/${id}`, {
+                        method: 'DELETE',
+                       })
+                    if(res.ok){
+                        // window.location = 'list.html'
+                        alert(`Delete thành công!!!!`)
+                    }else{
+                        alert(`Delete không thành công!!!!`)
+                    }
+                } catch (error) {
+                    alert(`Delete không thành công!!!!`)
+                }
+                }
+            }
+    </script>
 
       <!-- [ Main Content ] end -->
     </div>
@@ -328,7 +392,7 @@
         </div>
         <div class="col-sm-6 ms-auto my-1">
           <ul class="list-inline footer-link mb-0 justify-content-sm-end d-flex">
-            <li class="list-inline-item"><a href="../index.html">Home</a></li>
+            <li class="list-inline-item"><a href="../../index.html">Home</a></li>
             <li class="list-inline-item"><a href="https://codedthemes.gitbook.io/berry-bootstrap/"
                 target="_blank">Documentation</a></li>
             <li class="list-inline-item"><a href="https://codedthemes.support-hub.io/" target="_blank">Support</a></li>
@@ -337,12 +401,12 @@
       </div>
     </div>
   </footer> <!-- Required Js -->
-<script src="../assets/js/plugins/popper.min.js"></script>
-<script src="../assets/js/plugins/simplebar.min.js"></script>
-<script src="../assets/js/plugins/bootstrap.min.js"></script>
-<script src="../assets/js/fonts/custom-font.js"></script>
-<script src="../assets/js/pcoded.js"></script>
-<script src="../assets/js/plugins/feather.min.js"></script>
+<script src="../../assets/js/plugins/popper.min.js"></script>
+<script src="../../assets/js/plugins/simplebar.min.js"></script>
+<script src="../../assets/js/plugins/bootstrap.min.js"></script>
+<script src="../../assets/js/fonts/custom-font.js"></script>
+<script src="../../assets/js/pcoded.js"></script>
+<script src="../../assets/js/plugins/feather.min.js"></script>
 
 
 

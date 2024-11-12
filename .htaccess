@@ -1,0 +1,4 @@
+RewriteEngine on
+AddDefaultCharset UTF-8
+
+RewriteRule ^Api/(.+)$ api.php?id=$1 [L]

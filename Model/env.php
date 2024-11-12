@@ -2,7 +2,7 @@
     const DBHOST = "localhost";
     const DBUSER = "root";
     const DBPASS = "";
-    const DBNAME = "";
+    const DBNAME = "duan1";
     const CHARSET = "utf8";
     const BASE_URL = "";
 
