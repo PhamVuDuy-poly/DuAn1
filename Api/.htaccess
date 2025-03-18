@@ -1,0 +1,5 @@
+RewriteEngine on
+AddDefaultCharset UTF-8
+
+RewriteRule ^(\w+)(?:/(\w+))?/PUT$ index.php?page=$1&id=$2&method=PUT [L]
+RewriteRule ^(\w+)(?:/(\w+))?$ index.php?page=$1&id=$2 [L]
